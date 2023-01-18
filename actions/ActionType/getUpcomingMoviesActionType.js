@@ -1,0 +1,21 @@
+export const UPCOMINGMOVIES='UPCOMINGMOVIES';
+export const POPULARMOVIES='POPULARMOVIES';
+export const GETMOVIEDETAIL = 'GETMOVIEDETAIL';
+export const NOWTV = 'NOWTV';
+export const POPULARTV = 'POPULARTV';
+export const GETCAST = 'GETCAST';
+export const PROFILELIKE = 'PROFILELIKE'
+export const REMOVELIKE = 'REMOVELIKE'
+export const ADDFAVOURITE = 'ADDFAVOURITE'
+export const REMOVEFAVOURITE = 'REMOVEFAVOURITE'
+export const CACHE = 'CACHE'
+export const PROFILEIIMG = 'PROFILEIMG'
+export const GENREMOVIE = 'GENREMOVIE'
+export const STATUS = 'STATUS'
+
+
+
+
+
+
+
